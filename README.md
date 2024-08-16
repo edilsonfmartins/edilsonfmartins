@@ -38,5 +38,10 @@ Bem-vindo ao meu perfil no GitHub! Estou animado para me conectar com você e co
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 - ![Canvas](https://img.shields.io/badge/Canvas-000000?style=flat&logo=canvas&logoColor=white)
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Notepad++](https://img.shields.io/badge/Notepad++-90A959?style=flat&logo=notepad-plus-plus&logoColor=white)
+
 
 Obrigado por visitar meu perfil! 
